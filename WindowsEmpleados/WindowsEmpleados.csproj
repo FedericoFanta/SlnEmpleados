@@ -64,15 +64,15 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202211112047048_uno.cs" />
-    <Compile Include="Migrations\202211112047048_uno.Designer.cs">
-      <DependentUpon>202211112047048_uno.cs</DependentUpon>
+    <Compile Include="Migrations\202211112056434_CrearBaseDatos.cs" />
+    <Compile Include="Migrations\202211112056434_CrearBaseDatos.designer.cs">
+      <DependentUpon>202211112056434_CrearBaseDatos.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Migrations\202211112047048_uno.resx">
-      <DependentUpon>202211112047048_uno.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202211112056434_CrearBaseDatos.resx">
+      <DependentUpon>202211112056434_CrearBaseDatos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
